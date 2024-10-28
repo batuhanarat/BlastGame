@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04b5a06d9699a4b08a375a28cd8bdfd4, type: 3}
+  m_Name: SolidColorItemSO
+  m_EditorClassIdentifier: 
+  BlueCubeSprite: {fileID: 21300000, guid: 6e6d8666664a84d86817fc041295c49c, type: 3}
+  GreenCubeSprite: {fileID: 21300000, guid: 6a09736e5f0f14c13858fc73b9b41672, type: 3}
+  YellowCubeSprite: {fileID: 21300000, guid: ac343df4666b844e2b5718378d730ce5, type: 3}
+  RedCubeSprite: {fileID: 21300000, guid: 2c7556179dfc040ceab5d803e418617f, type: 3}
+  blueCubeParticle: {fileID: 21300000, guid: 84d0037a1aab0403895bcb40846c77a9, type: 3}
+  redCubeParticle: {fileID: 21300000, guid: a0621cb4b9e614afb82f4acd40a850c5, type: 3}
+  greenCubeParticle: {fileID: 21300000, guid: 904965c3ad10745c3b4ad773da6fe24a, type: 3}
+  yellowCubeParticle: {fileID: 21300000, guid: 0df30c19d09934808bbe998025bc52fa, type: 3}
+  BlueCubeTntHintSprite: {fileID: 21300000, guid: 46ff27ff2ee4342849dbc479f8d6ebc1, type: 3}
+  GreenCubeTntHintSprite: {fileID: 21300000, guid: 5a82eacc097f64ff4bc76940a5d7464c, type: 3}
+  YellowCubeTntHintSprite: {fileID: 21300000, guid: a78edab876ae54633a2758d7212c5dd8, type: 3}
+  RedCubeTntHintSprite: {fileID: 21300000, guid: 4b0e7a024bcaf417c92dd57ebde77b8c, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656ed5fcfc71d490e86691440f518553, type: 3}
+  m_Name: New UI Prefab Data
+  m_EditorClassIdentifier: 
+  levelButtonPrefab: {fileID: 5034824486331448917, guid: 5e7eb2890c1894748ac1ea30942c29d2, type: 3}
+  topPanelPrefab: {fileID: 5433221071191132472, guid: 841854e293b064e529c00357f04f538f, type: 3}
+  loseDialogPrefab: {fileID: 7102054423364417475, guid: b4148afa1988c4f699adf2beb8263013, type: 3}
+  winDialogPrefab: {fileID: 6637273423714456450, guid: 067412edab5d546bf8128f1f0f9e32cc, type: 3}

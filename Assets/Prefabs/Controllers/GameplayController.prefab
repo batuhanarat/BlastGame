@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5143380435072020766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1728906181401086105}
+  - component: {fileID: 5217910729855895483}
+  m_Layer: 0
+  m_Name: GameplayController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1728906181401086105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5143380435072020766}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1777288, y: -2.9696364, z: -0.08212465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5217910729855895483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5143380435072020766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5197cd76306d74993ada901744b91e96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _boardPrefab: {fileID: 3895408308984931090, guid: d9cd6c2f81c2e4b188fb52792266b24b, type: 3}
+  _objectPoolPrefab: {fileID: 6813363191524156622, guid: 197ba7cfdc1b043cfbe1dcd6559108af, type: 3}
+  _itemFactoryPrefab: {fileID: 760293190414896793, guid: 9737d749b4da943a4aabfeeead21d561, type: 3}
+  _fallManagerPrefab: {fileID: 8756450666277227657, guid: 45f8e8798faf2403c9bf63c4b6fc3763, type: 3}
+  _uiController: {fileID: 7526921118612577815, guid: cec6d7dc6c91f498c913e40afd6f458b, type: 3}
